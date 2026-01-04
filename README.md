@@ -17,3 +17,6 @@ Kandilli API’den alınan verileri listeler, detay ekranı sunar ve deprem konu
 - ✔ **Google Maps’te konumu açabilme**
 - ✔ **Swipe-to-Refresh**
 - ✔ **İnternet yoksa uyarı mesajı**
+
+## 🗺️ API By Orhan AYDOĞDU
+https://github.com/orhanayd/kandilli-rasathanesi-api
