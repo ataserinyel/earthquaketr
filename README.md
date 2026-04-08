@@ -1,9 +1,9 @@
-# 📱 Deprem Bilgi Uygulaması (Android – Java)
+# Deprem Bilgi Uygulaması (Android – Java)
 
 Türkiye’de meydana gelen **son depremleri gerçek zamanlı** olarak gösteren Android uygulaması.  
 Kandilli API’den alınan verileri listeler, detay ekranı sunar ve deprem konumunu Google Maps üzerinde açabilir.
 
-## 🚀 Özellikler
+## Özellikler
 
 - ✔ **Gerçek zamanlı deprem verileri**
 - ✔ **Retrofit + Gson ile API bağlantısı**
@@ -18,5 +18,5 @@ Kandilli API’den alınan verileri listeler, detay ekranı sunar ve deprem konu
 - ✔ **Swipe-to-Refresh**
 - ✔ **İnternet yoksa uyarı mesajı**
 
-## 🗺️ API By Orhan AYDOĞDU
+## API By Orhan AYDOĞDU
 https://github.com/orhanayd/kandilli-rasathanesi-api
